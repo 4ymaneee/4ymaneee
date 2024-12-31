@@ -32,14 +32,6 @@
 <br>
   
 <div> 
-  <p align="center">
-	<a href="https://www.instagram.com/4ymaneee/"><img title="instagram.com/4ymaneee/" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-    </a>
-	<a href="https://www.facebook.com/aymaninox01/"><img title="facebook.com/aymaninox01" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
-    </a>
-	<a href="https://twitter.com/4ymaneee"><img title="twitter.com/4ymaneee" src="https://img.shields.io/badge/twitter-%231877F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
-    </a>
-  </p>
 </div>
 
 <a href="#">
